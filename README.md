@@ -17,6 +17,7 @@ ___
 ___
 - Connect with your future employee on [LinkedIn](https://www.linkedin.com/in/arzamansoori/)
 - Read my blogs on [HashNode](https://arzatf.hashnode.dev/) (each posts depends upon my mood :triangular_flag_on_post:) 
+- Write me an email [](arzadotmansoori@gmail.com)
 
 
 
