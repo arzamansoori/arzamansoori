@@ -3,7 +3,7 @@
 
 #### ABOUT 
 ___
-- 💬 D365 F&O Apps Developer at Infosys.
+- 💬 JavaScript Developer at Infosys.
 - ⚡ Interested in Web Develpment. 
 - 🔭 I’m currently working on Front End Development.
 - 🌱 I’m currently learning JavaScript.
