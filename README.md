@@ -3,7 +3,7 @@
 
 #### ABOUT 
 ___
-- 💬 JavaScript Developer at Infosys.
+- 💬 Front end Developer at Infosys.
 - ⚡ Interested in Web Develpment. 
 - 🔭 I’m currently working on Front End Development.
 - 🌱 I’m currently learning JavaScript.
