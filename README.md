@@ -6,7 +6,7 @@ ___
 - 💬 Front end Developer at Infosys.
 - ⚡ Interested in Web Develpment. 
 - 🔭 I’m currently working on Front End Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React JS.
 - 👯 My Portfolio is coming out soon.
 
 #### SKILLS
