@@ -11,7 +11,7 @@ ___
 
 #### SKILLS
 ___
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="70" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" /> <img src="https://github.com/arzamansoori/arzamansoori/assets/85438357/3b4e1296-6ebe-4046-9e57-3f2c59cd7c95" width="58" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="58" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="70" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" /> <img src="https://github.com/arzamansoori/arzamansoori/assets/85438357/3b4e1296-6ebe-4046-9e57-3f2c59cd7c95" width="58" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="58" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="60" /> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fjest-3629451&psig=AOvVaw2nMWUr6ou7R-j9ly5j1m-k&ust=1724915034619000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCb08WPl4gDFQAAAAAdAAAAABAE" />
 
 #### Get in Touch :coffee:	
 ___
