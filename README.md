@@ -5,7 +5,7 @@
 ___
 - 💬 Front end Developer at Infosys.
 - ⚡ Interested in Web Develpment. 
-- 🔭 I’m currently working on Food Delivery App using React.
+- 🔭 I’m currently working on Video Streaming Platform using React.
 - 🌱 I’m currently learning React JS.
 - 👯 My Portfolio is coming out soon.
 
