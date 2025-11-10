@@ -2,11 +2,13 @@
 ![Gif](https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761135ccb5b56a989132be2d2c7b4c90e0f6e49be569&rid=giphy.gif&ct=g)
 
 #### ABOUT 
-___
-- 💬 Front end Developer at Infosys.
-- ⚡ Interested in Web Develpment. 
-- 🔭 I’m currently working on Video Streaming Platform using React.
-- 🌱 I’m currently learning React JS.
+___  
+- 👋 Frontend Engineer at a product-based startup.  
+- ⚡ I love turning ideas into interactive, visually appealing web experiences.   
+- 🌱 Learning advanced React patterns, system designs and exploring better UI/UX practices.  
+- 💼 On the side, I’m freelancing — designing and developing a portfolio website for an Interior Designer.  
+- 💡 Always curious about new tools, creative UI trends, and smooth user experiences.  
+
 
 #### SKILLS
 ___
